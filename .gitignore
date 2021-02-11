@@ -1,0 +1,7 @@
+*.pptx
+*.pdf
+*.hdf5
+__pycache__/
+four/
+imgs/
+swing/
